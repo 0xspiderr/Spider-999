@@ -20,7 +20,7 @@ a polished networking system.</p>
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnYzaXZrYzUyam9wOW5nMXZpa3E0NnRwZmJwbnBidDZpZXF0N2lheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmQAsNXEgvItJxpgL4/giphy.gif"  />
 
-### 🛠️ Technologies and tools I use
+### 🛠️ Technologies and tools I use...
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -46,7 +46,7 @@ a polished networking system.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
 
-###
+### ✉️ Contact me...
 
 <div align="left">
   <a href="mailto:harypatrascu.1@gmail.com">
