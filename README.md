@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">Hi 👋!</h2>
-<h3>My name is Hary and I'm a control systems engineering student from Romania.</h3>
+<h2 align="center">Hi 👋! My name is Harry...</h2>
+<h3>I'm a control systems engineering student from Romania.</h3>
 
 <p>I enjoy learning game development and tinkering with arduino and ESP-32 boards in my spare time.</p>
 
@@ -65,14 +65,8 @@ a polished networking system.</p>
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+  <p>harypatrascu.1@gmail.com</p>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <p>https://www.linkedin.com/in/patrascu-hary-9293b5286/</p>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Spider-999/Spider-999/output/snake.svg" alt="Snake animation" />
-
-###
