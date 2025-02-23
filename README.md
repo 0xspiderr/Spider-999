@@ -4,7 +4,7 @@
 <p>I enjoy learning game development and tinkering with arduino and ESP-32 boards in my spare time.</p>
 
 <h3>📚 I'm currently learning...</h3>
-<p>Unity game development using C#. After gaining experience in game development by working in Godot and using 
+<p>Electronics and Unity game development using C#. After gaining experience in game development by working in Godot and using 
 godot script I decided to switch to Unity because it's better suited for multiplayer games, having
 a polished networking system.</p>
 
