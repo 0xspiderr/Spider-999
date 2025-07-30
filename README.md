@@ -1,13 +1,3 @@
-<h2 align="center">Hi 👋! My name is Harry...</h2>
-<h3>👷🏻‍♂️ I'm a control systems engineering student from Romania.</h3>
-
-<p>I enjoy learning game development and tinkering with arduino and ESP-32 boards in my spare time.</p>
-
-<h3>📚 I'm currently learning...</h3>
-<p>Electronics and Unity game development using C#. After gaining experience in game development by working in Godot and using 
-godot script I decided to switch to Unity because it's better suited for multiplayer games, having
-a polished networking system.</p>
-
 ###
 
 <div align="center">
